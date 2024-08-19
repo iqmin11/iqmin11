@@ -1,6 +1,7 @@
 
 <div align="center">
-
+  
+ [![header](https://capsule-render.vercel.app/api?type=Soft&color=000000&fontColor=ffffff&text=Min.log&animation=fadeIn)](https://velog.io/@iqmin11/posts)
 
   
 ### Tech Stack
