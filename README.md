@@ -30,7 +30,7 @@
 ### Site
 
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://humane-unicorn-8e4.notion.site/Game-Developer-9a468e24837d41669754f01ec42ed9e1?pvs=4)
-[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@user-br6yf1pw2g)
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UC6XarkoTmQWf7vuYd4GXYnw?si=QAGA0mA2_0GXdsbx)
 
 <br/>
   
